@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <string name="todo">TODO</string>
+    <string name="pasta">Pasta</string>
+    <string name="rs_180">Rs 180/-</string>
+    <string name="textview">TextView</string>
+    <string name="quantity_0">0</string>
+    <string name="buttonMinus">-</string>
+    <string name="buttonPlus">+</string>
+    <string name="noodles">Noodles</string>
+    <string name="inr">Rs</string>
+    <string name="inr_180">180</string>
+    <string name="total">Total:</string>
+    <string name="sum">0</string>
+    <string name="order">Order</string>
+</resources>
